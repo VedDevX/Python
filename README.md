@@ -13,10 +13,10 @@ Welcome to my **Python Mini Projects** repository! This repo is dedicated to org
 Projects that focus on understanding variables, basic arithmetic, and simple formulas.
 
 - [Temperature Converter](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/01.%20Temperature_Converter)
-- [Simple Interest Calculator](1.%20Basics_%26_Variables/2.%20Simple_Interest_Calculator/)
-- [Age in Days Calculator](1.%20Basics_%26_Variables/3.%20Age_in_Days_Calculator/)
-- [BMI Calculator](1.%20Basics_%26_Variables/4.%20BMI_Calculator/)
-- [Unit Converter](1.%20Basics_%26_Variables/5.%20Unit_Converter/)
+- [Simple Interest Calculator](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/02.%20Simple_Interest_Calculator)
+- [Age in Days Calculator](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/03.%20Age_in_Days_Calculator)
+- [BMI Calculator](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/04.%20BMI_Calculator)
+- [Unit Converter](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/05.%20Unit_Converter)
 
 ---
 
