@@ -78,7 +78,7 @@ If you have ideas for new mini projects or improvements, feel free to open an is
 ## 📫 Connect With Me
 
 Feel free to reach out if you want to collaborate or ask questions:  
-[Your LinkedIn](www.linkedin.com/in/vedant-jadhav-vj19) | [Your Email](mailto:vedant.jadhav1928@gmail.com)
+[LinkedIn](www.linkedin.com/in/vedant-jadhav-vj19) | [Email](mailto:vedant.jadhav1928@gmail.com)
 
 ---
 
