@@ -22,10 +22,10 @@ Projects that focus on understanding variables, basic arithmetic, and simple for
 Projects focusing on decision making and loops to control program flow.
 
 - [Number Guessing Game](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/01.%20Number_Guessing_Game)  
-- [Rock Paper Scissors](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/02.%20Rock_Paper_Scissors)  
-- [Custom FizzBuzz](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/03.%20Custom_FizzBuzz)  
-- [Even Odd Number Counter](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/04.%20Even_Odd_Counter)  
-- [Simple Quiz App](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/05.%20Simple_Quiz_App)  
+- [Rock Paper Scissors](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/02.%20Rock_Paper_%26_Scissors_Game)  
+- [Custom FizzBuzz](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/03.%20FizzBuzz_With_Custom_Rules)  
+- [Even Odd Number Counter](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/04.%20Even_Odd_Number_Counter)  
+- [Simple Quiz App](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/05.%20Simple_Quiz_App_With_Score_Tracking)  
 - [Password Generator](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/06.%20Password_Generator)  
 
 ---
