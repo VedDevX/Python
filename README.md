@@ -1,5 +1,5 @@
 # Python
-A curated collection of beginner-friendly Python mini projects organized by core topics. This repository covers basics &amp; variables, control flow, functions, and more—helping learners build a solid foundation through practical coding exercises.
+A curated collection of beginner-friendly Python mini projects organized by core topics. This repository covers basics & variables, control flow, functions, and more—helping learners build a solid foundation through practical coding exercises.
 
 # Python Mini Projects Repository 🐍
 
@@ -9,23 +9,33 @@ Welcome to my **Python Mini Projects** repository! This repo is dedicated to org
 
 ## 🚀 What’s Inside?
 
-### [1. Basics & Variables](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables)
+### [1. Basics & Variables](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables)  
 Projects that focus on understanding variables, basic arithmetic, and simple formulas.
 
-- [Temperature Converter](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/01.%20Temperature_Converter)
-- [Simple Interest Calculator](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/02.%20Simple_Interest_Calculator)
-- [Age in Days Calculator](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/03.%20Age_in_Days_Calculator)
-- [BMI Calculator](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/04.%20BMI_Calculator)
-- [Unit Converter](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/05.%20Unit_Converter)
+- [Temperature Converter](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/01.%20Temperature_Converter)  
+- [Simple Interest Calculator](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/02.%20Simple_Interest_Calculator)  
+- [Age in Days Calculator](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/03.%20Age_in_Days_Calculator)  
+- [BMI Calculator](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/04.%20BMI_Calculator)  
+- [Unit Converter](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/05.%20Unit_Converter)  
+
+### [2. Control Flow](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow)  
+Projects focusing on decision making and loops to control program flow.
+
+- [Number Guessing Game](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/01.%20Number_Guessing_Game)  
+- [Rock Paper Scissors](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/02.%20Rock_Paper_Scissors)  
+- [Custom FizzBuzz](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/03.%20Custom_FizzBuzz)  
+- [Even Odd Number Counter](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/04.%20Even_Odd_Counter)  
+- [Simple Quiz App](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/05.%20Simple_Quiz_App)  
+- [Password Generator](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/06.%20Password_Generator)  
 
 ---
 
 ## 📌 How to Use This Repository
 
-1. **Clone or download** the repository to your local machine.
-2. Navigate to the topic folder you want to explore.
-3. Open the project folder and run the Python scripts to see them in action.
-4. Feel free to modify, experiment, and improve the projects.
+1. **Clone or download** the repository to your local machine.  
+2. Navigate to the topic folder you want to explore.  
+3. Open the project folder and run the Python scripts to see them in action.  
+4. Feel free to modify, experiment, and improve the projects.  
 
 ---
 
@@ -34,19 +44,19 @@ Projects that focus on understanding variables, basic arithmetic, and simple for
 The aim is to continuously add mini projects covering all major Python topics like:
 
 - [Basics & Variables](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables)  
-- Control Flow (if-else, loops)  
+- [Control Flow](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow)  
 - Functions & Modules  
 - Data Structures (lists, dictionaries, sets)  
 - File Handling  
 - Object-Oriented Programming  
-- And more!
+- And more!  
 
 ---
 
 ## 📝 License
 
 This repository is licensed under the **GNU Affero General Public License v3.0**.  
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.  
 
 ---
 
@@ -59,7 +69,7 @@ If you have ideas for new mini projects or improvements, feel free to open an is
 ## 📫 Connect With Me
 
 Feel free to reach out if you want to collaborate or ask questions:  
-[LinkedIn](www.linkedin.com/in/vedant-jadhav-vj19) | [Email](mailto:vedant.jadhav1928@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vedant-jadhav-vj19) | [Email](mailto:vedant.jadhav1928@gmail.com)  
 
 ---
 
