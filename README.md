@@ -12,7 +12,7 @@ Welcome to my **Python Mini Projects** repository! This repo is dedicated to org
 ### 1. Basics & Variables
 Projects that focus on understanding variables, basic arithmetic, and simple formulas.
 
-- [Temperature Converter](1.%20Basics_%26_Variables/01.%20Temperature_Converter/)
+- [Temperature Converter](1.%20Basics_%26_Variables/01.%20Temperature_Converter/main.py)
 - [Simple Interest Calculator](1.%20Basics_%26_Variables/2.%20Simple_Interest_Calculator/)
 - [Age in Days Calculator](1.%20Basics_%26_Variables/3.%20Age_in_Days_Calculator/)
 - [BMI Calculator](1.%20Basics_%26_Variables/4.%20BMI_Calculator/)
