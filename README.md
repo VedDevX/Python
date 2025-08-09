@@ -33,7 +33,7 @@ Projects that focus on understanding variables, basic arithmetic, and simple for
 
 The aim is to continuously add mini projects covering all major Python topics like:
 
-- Basics & Variables  
+- [Basics & Variables](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables)  
 - Control Flow (if-else, loops)  
 - Functions & Modules  
 - Data Structures (lists, dictionaries, sets)  
