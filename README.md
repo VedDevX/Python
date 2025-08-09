@@ -9,7 +9,7 @@ Welcome to my **Python Mini Projects** repository! This repo is dedicated to org
 
 ## 🚀 What’s Inside?
 
-### 1. Basics & Variables
+### [1. Basics & Variables](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables)
 Projects that focus on understanding variables, basic arithmetic, and simple formulas.
 
 - [Temperature Converter](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables/01.%20Temperature_Converter)
