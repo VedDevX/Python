@@ -7,35 +7,16 @@ Welcome to my **Python Mini Projects** repository! This repo is dedicated to org
 
 ---
 
-## 📂 Folder Structure
-
-Python/
-│
-├── 1. Basics_&_Variables/
-│ ├── 1. Temperature_Converter/
-│ ├── 2. Simple_Interest_Calculator/
-│ ├── 3. Age_in_Days_Calculator/
-│ ├── 4. BMI_Calculator/
-│ └── 5. Unit_Converter/
-│
-├── 2. Control_Flow/
-│ └── (More projects coming soon...)
-│
-└── ... (Other topic folders)
-
-
----
-
 ## 🚀 What’s Inside?
 
 ### 1. Basics & Variables
 Projects that focus on understanding variables, basic arithmetic, and simple formulas.
 
-- **Temperature Converter:** Convert between Celsius and Fahrenheit temperatures.
-- **Simple Interest Calculator:** Calculate simple interest using principal, rate, and time.
-- **Age in Days Calculator:** Convert age in years to total days.
-- **BMI Calculator:** Calculate Body Mass Index from weight and height.
-- **Unit Converter:** Convert between kilometers and miles (both ways).
+- [Temperature Converter](1.%20Basics_%26_Variables/1.%20Temperature_Converter/)
+- [Simple Interest Calculator](1.%20Basics_%26_Variables/2.%20Simple_Interest_Calculator/)
+- [Age in Days Calculator](1.%20Basics_%26_Variables/3.%20Age_in_Days_Calculator/)
+- [BMI Calculator](1.%20Basics_%26_Variables/4.%20BMI_Calculator/)
+- [Unit Converter](1.%20Basics_%26_Variables/5.%20Unit_Converter/)
 
 ---
 
