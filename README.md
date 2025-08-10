@@ -28,6 +28,15 @@ Projects focusing on decision making and loops to control program flow.
 - [Simple Quiz App](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/05.%20Simple_Quiz_App_With_Score_Tracking)  
 - [Password Generator](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow/06.%20Password_Generator)  
 
+### [3. Functions & Modules](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules)  
+Projects focused on creating reusable code blocks and modular programming.
+
+- [Calculator](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules/01.%20Calculator)  
+- [Palindrome Checker](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules/02.%20Palindrome_Checker)  
+- [Email Slicer](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules/03.%20Email_Slicer)  
+- [Currency Converter](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules/04.%20Currency_Converter)  
+- [To-Do List Manager](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules/05.%20To_Do_List_Manager)  
+
 ---
 
 ## 📌 How to Use This Repository
@@ -45,7 +54,7 @@ The aim is to continuously add mini projects covering all major Python topics li
 
 - [Basics & Variables](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables)  
 - [Control Flow](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow)  
-- Functions & Modules  
+- [Functions & Modules](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules)  
 - Data Structures (lists, dictionaries, sets)  
 - File Handling  
 - Object-Oriented Programming  
