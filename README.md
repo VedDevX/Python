@@ -55,7 +55,7 @@ The aim is to continuously add mini projects covering all major Python topics li
 - [Basics & Variables](https://github.com/VedDevX/Python/tree/main/Python/1.%20Basics_%26_Variables)  
 - [Control Flow](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow)  
 - [Functions & Modules](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules)  
-- Data Structures (lists, dictionaries, sets)  
+- [Data Structures (lists, dictionaries, sets)](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures) 
 - File Handling  
 - Object-Oriented Programming  
 - And more!  
