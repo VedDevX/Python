@@ -35,7 +35,16 @@ Projects focused on creating reusable code blocks and modular programming.
 - [Palindrome Checker](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules/02.%20Palindrome_Checker_Function)  
 - [Email Slicer](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules/03.%20Email_Slicer)  
 - [Currency Converter](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules/04.20Currency_Converter_Using_Module_For_Rates)  
-- [To-Do List Manager](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules/05.%20To-Do-List_Manager)  
+- [To-Do List Manager](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules/05.%20To-Do-List_Manager)
+
+### [4. Data Structures (Lists, Dictionaries, Sets)](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures))  
+Projects to practice working with Python’s core data structures.
+
+- [Movie Watchlist App](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures/01.%20Movie_Watchlist_App)  
+- [Word Frequency Counter](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures/02.%20Word_Frequency_Counter)  
+- [Student Grade Tracker](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures/03.%20Students_Grade_Tracker)  
+- [Unique Item Finder](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures/04.%20Unique_Item_Finder)  
+- [Simple Contact Book](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures/05.%20Simple_Contact_Book)  
 
 ---
 
