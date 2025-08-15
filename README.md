@@ -49,6 +49,9 @@ Projects to practice working with Python’s core data structures.
 ### [5. File Handling](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling)
 Projects focusing on working with file handling in python.
 
+- [Personal Diary App](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling/01.%20Personal_Diary_App)
+- [Expenses Tracker](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling/02.%20Expense_Tracker)
+
 ---
 
 ## 📌 How to Use This Repository
