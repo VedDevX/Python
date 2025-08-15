@@ -51,6 +51,8 @@ Projects focusing on working with file handling in python.
 
 - [Personal Diary App](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling/01.%20Personal_Diary_App)
 - [Expenses Tracker](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling/02.%20Expense_Tracker)
+- [Student Report Card Generator](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling/03.%20Student_Report_Card_Generator)
+- [Log File Analyzer](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling/04.%20Log_File_Analyzer)
 
 ---
 
