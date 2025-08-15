@@ -44,7 +44,10 @@ Projects to practice working with Python’s core data structures.
 - [Word Frequency Counter](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures/02.%20Word_Frequency_Counter)  
 - [Student Grade Tracker](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures/03.%20Students_Grade_Tracker)  
 - [Unique Item Finder](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures/04.%20Unique_Item_Finder)  
-- [Simple Contact Book](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures/05.%20Simple_Contact_Book)  
+- [Simple Contact Book](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures/05.%20Simple_Contact_Book)
+
+### [5. File Handling](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling)
+Projects focusing on working with file handling in python.
 
 ---
 
@@ -65,7 +68,7 @@ The aim is to continuously add mini projects covering all major Python topics li
 - [Control Flow](https://github.com/VedDevX/Python/tree/main/Python/2.%20Control_Flow)  
 - [Functions & Modules](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules)  
 - [Data Structures (lists, dictionaries, sets)](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures) 
-- File Handling  
+- [File Handling](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling)
 - Object-Oriented Programming  
 - And more!  
 
