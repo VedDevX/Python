@@ -54,6 +54,14 @@ Projects focusing on working with file handling in python.
 - [Student Report Card Generator](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling/03.%20Student_Report_Card_Generator)
 - [Log File Analyzer](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling/04.%20Log_File_Analyzer)
 
+### [6. Object Oriented Programming](https://github.com/VedDevX/Python/tree/main/Python/6.%20OOPS)
+Project mainly focuses on Object Oriented Programming in Python.
+
+- [Library Management System](https://github.com/VedDevX/Python/tree/main/Python/6.%20OOPS/01.%20Library_Management_System)
+- [Bank Account Simulator](https://github.com/VedDevX/Python/tree/main/Python/6.%20OOPS/02.%20Bank_Account_Simulator)
+- [Online Shopping Cart](https://github.com/VedDevX/Python/tree/main/Python/6.%20OOPS/03.%20Online_Shopping_Cart)
+- [Student Management System](https://github.com/VedDevX/Python/tree/main/Python/6.%20OOPS/04.%20Student_Management_System)
+
 ---
 
 ## 📌 How to Use This Repository
@@ -74,8 +82,7 @@ The aim is to continuously add mini projects covering all major Python topics li
 - [Functions & Modules](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules)  
 - [Data Structures (lists, dictionaries, sets)](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures) 
 - [File Handling](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling)
-- Object-Oriented Programming  
-- And more!  
+- [Object-Oriented Programming](https://github.com/VedDevX/Python/tree/main/Python/6.%20OOPS)  
 
 ---
 
