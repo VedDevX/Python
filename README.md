@@ -62,6 +62,15 @@ Project mainly focuses on Object Oriented Programming in Python.
 - [Online Shopping Cart](https://github.com/VedDevX/Python/tree/main/Python/6.%20OOPS/03.%20Online_Shopping_Cart)
 - [Student Management System](https://github.com/VedDevX/Python/tree/main/Python/6.%20OOPS/04.%20Student_Management_System)
 
+### [7. NumPy](https://github.com/VedDevX/Python/tree/main/Python/7.%20Numpy)
+Projects focuses on NumPy Essentials.
+
+- [Matrix Calculator](https://github.com/VedDevX/Python/tree/main/Python/7.%20Numpy/01.%20Matrix_Calculator)
+- [Random Data Simulator](https://github.com/VedDevX/Python/tree/main/Python/7.%20Numpy/02.%20Random_Data_Simulator)
+- [Stock Market Data Analysis](https://github.com/VedDevX/Python/tree/main/Python/7.%20Numpy/03.%20Stock_Market_Data_Analysis)
+- [Sudoku Solver](https://github.com/VedDevX/Python/tree/main/Python/7.%20Numpy/04.%20Sudoku_Solver)
+- [Scientific Calculator](https://github.com/VedDevX/Python/tree/main/Python/7.%20Numpy/05.%20Scientific_Calculator)
+
 ---
 
 ## 📌 How to Use This Repository
@@ -82,7 +91,8 @@ The aim is to continuously add mini projects covering all major Python topics li
 - [Functions & Modules](https://github.com/VedDevX/Python/tree/main/Python/3.%20Functions_%26_Modules)  
 - [Data Structures (lists, dictionaries, sets)](https://github.com/VedDevX/Python/tree/main/Python/4.%20Basic_Data_Structures) 
 - [File Handling](https://github.com/VedDevX/Python/tree/main/Python/5.%20File_Handling)
-- [Object-Oriented Programming](https://github.com/VedDevX/Python/tree/main/Python/6.%20OOPS)  
+- [Object-Oriented Programming](https://github.com/VedDevX/Python/tree/main/Python/6.%20OOPS)
+- [NumPy](https://github.com/VedDevX/Python/tree/main/Python/7.%20Numpy)
 
 ---
 
